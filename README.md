@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm TD 👋
 
-<!--
-**td-ai-builds/td-ai-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Product Manager building a portfolio of small, useful AI apps and learning one day at a time.
 
-Here are some ideas to get you started:
+**What I'm working on:**
+- 🔨 App #1: AI Builder Weekly — one AI feature card per week, PM-filtered
+- 📅 Ship day: Saturday
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Why I build:**
+I want to understand AI tools deeply enough to make great product decisions.
+Not to monetise. To get sharp.
+
+**Stack:** Claude Code · Python · HTML/CSS · Replit
+
+**Find me:** [LinkedIn](https://www.linkedin.com/in/tristan-dayashanker/)
